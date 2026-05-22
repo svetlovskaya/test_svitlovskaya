@@ -1,6 +1,6 @@
 import os
 import turtle
-
+print("сак")
 
 def draw_it():
     # Настройки экрана и скорости
